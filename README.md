@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Olumide
+- 👋 Hi, I’m Olu
 - 👀 I’m interested in work management tools 
 - 💞️ I’m looking to collaborate on app development
-- 📫 You can reach me at github@akingate.com
+
 
 
 <!---
