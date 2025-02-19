@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akingate
 - 👀 I’m interested in work management tools 
-- 🌱 I’m currently learning AI python
 - 💞️ I’m looking to collaborate on app development
 - 📫 You can reach me at github@akingate.com
 - 😄 Pronouns: He
